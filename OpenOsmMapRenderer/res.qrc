@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/textures"/>
+    <qresource prefix="/shaders">
+        <file>res/shaders/sprite.frag</file>
+        <file>res/shaders/sprite.vert</file>
+        <file>res/shaders/polygon.frag</file>
+        <file>res/shaders/polygon.vert</file>
+    </qresource>
+    <qresource prefix="/xml">
+        <file>res/xml/map.xml</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>res/icons/icon.ico</file>
+    </qresource>
+</RCC>
